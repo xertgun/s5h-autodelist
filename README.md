@@ -31,6 +31,7 @@ telnet www.usenix.org.uk 80
 GET /content/rblremove HTTP/1.1
 Host: www.usenix.org.uk
 ```
+> than enter twice...
 
 ### ✅ 3. Success Message
 After running the command, you should receive a response similar to this:
